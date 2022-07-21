@@ -1,6 +1,6 @@
 # my-first-test-repo
 
-This is my test repo．
+テスト用のレポジトリです.
 
 - 最初のコミットを実行します．
 - featureブランチで追加します．
